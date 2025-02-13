@@ -19,3 +19,13 @@ command for adding user emai id
 >git config --global.user.email
 
 
+command for initializing git 
+
+>git init 
+
+command for listing untracked files
+
+>git status
+
+
+
