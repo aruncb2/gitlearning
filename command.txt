@@ -1,0 +1,21 @@
+command for listing configuration
+
+
+>git config --list
+
+
+command for checking get version 
+
+>git --version
+
+
+command for adding user name
+
+>git config --global.user.name
+
+
+command for adding user emai id 
+
+>git config --global.user.email
+
+
