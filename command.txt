@@ -56,3 +56,8 @@ exact copy from remote repository to local repository
 remote repository changes
 
 >git pull
+
+
+command for adding remote 
+
+>git remote add remoteName path
