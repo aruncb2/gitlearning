@@ -61,3 +61,8 @@ remote repository changes
 command for adding remote 
 
 >git remote add remoteName path
+
+
+listing remote
+
+>git remote -v
